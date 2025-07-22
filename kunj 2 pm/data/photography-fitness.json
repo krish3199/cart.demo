@@ -1,0 +1,32 @@
+[
+  {
+    "id": 6,
+    "title": "Sony A7 Mark Iv",
+    "category": "Cameras",
+    "imageUrl": "https://www.sony.co.in/image/0273574ff7bcc3b83e178248f0831403?fmt=pjpeg&wid=1200&hei=470",
+    "rating": 4.9,
+    "price": 3399.08,
+    "oldPrice": 3399,
+    "badge": "new"
+  },
+  {
+    "id": 7,
+    "title": "AirPods Pro (2nd Gen)",
+    "category": "Audio & Earbuds",
+    "imageUrl": "https://images.meesho.com/images/products/450021973/di4pe_512.jpg",
+    "rating": 4.8,
+    "price": 1199.99,
+    "oldPrice": 249,
+    "badge": "bestseller"
+  },
+  {
+    "id": 8,
+    "title": "Apple Watch Ultra",
+    "category": "Wearables",
+    "imageUrl": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/166/16684/16684751.jpg",
+    "rating": 4.9,
+    "price": 1499.25,
+    "oldPrice": 3399,
+    "badge": "new"
+  }
+]
