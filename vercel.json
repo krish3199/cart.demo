@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/electronics.html" },
+    { "source": "/cart", "destination": "/cart.html" },
+    { "source": "/audio-gaming", "destination": "/audio-gaming.html" },
+    { "source": "/photography-fitness", "destination": "/photography-fitness.html" }
+  ]
+}
